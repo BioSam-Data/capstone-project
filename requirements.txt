@@ -1,0 +1,7 @@
+### 📦 `requirements.txt` (based on typical use for this dataset)
+
+numpy
+pandas
+matplotlib
+seaborn
+jupyter
